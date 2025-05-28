@@ -1,0 +1,7 @@
+[package]
+name = "everyday_user"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.27"  # Uses egui under the hood
